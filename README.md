@@ -1,2 +1,2 @@
-# codemy-gamma-android-quad
-arduino based android drone
+# codemy-gamma-quad
+arduino based quadcopter
